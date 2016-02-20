@@ -487,8 +487,8 @@ TeleCreed Commands list :
 you can use both "/" and "!" 
 .شما میتوانید از ! و / استفاده کنید
 
-Developer: @Mehdi74Sh
- ↫╆⇟ M₤h๔İ ⇞╆↬
+Developer: @Xx_MeHdi_KinG_xX
+ با تشکر(↫╆⇟ M₤h๔İ ⇞╆↬)
 
 G00D LUCK ^_^
 ]]
